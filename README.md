@@ -42,9 +42,14 @@ Designed a children's themed desk lamp modelled on the Pixar character WALL-E, p
 - Photorealistic renders
 
 ---
+## Report Link
+
+[doc00450320240118170128.pdf](https://github.com/user-attachments/files/27556684/doc00450320240118170128.pdf)
+
+---
 
 ## 👤 Author
 **Jacob Dunlevy** — MEng Mechatronics Engineering, Ulster University  
 [LinkedIn](https://www.linkedin.com/in/jacob-dunlevy-24861a388)
 
-[doc00450320240118170128.pdf](https://github.com/user-attachments/files/27556684/doc00450320240118170128.pdf)
+
